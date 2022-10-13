@@ -1,0 +1,22 @@
+  501  git init
+  502  ls
+  503  ls -a
+  504  git status
+  505  cd ..
+  506  git status
+  507  ls
+  508  cd git
+  509  git status
+  510  git add .
+  511  git status
+  512* git commit -m "ajout fichier.txt"
+  513  git status
+  514  git log
+  515  git branch -M main
+  516  git remote add origin https://github.com/Kyo-A/git.git
+  517  git push -u origin main
+  518  git diff origin main
+  519  git diff origin/main main
+  520  git status
+  521  git add .
+  522  git status
